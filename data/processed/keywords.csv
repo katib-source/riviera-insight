@@ -1,0 +1,101 @@
+operator,sentiment_group,keyword,score
+"100% Monaco, Beaulieu sur mer and panoramic view from all over Nice",positive,visit monaco,0.739
+"100% Monaco, Beaulieu sur mer and panoramic view from all over Nice",positive,monaco beautiful,0.7272
+"100% Monaco, Beaulieu sur mer and panoramic view from all over Nice",positive,favorite palace,0.4028
+"100% Monaco, Beaulieu sur mer and panoramic view from all over Nice",positive,excursion enjoyed,0.3981
+"100% Monaco, Beaulieu sur mer and panoramic view from all over Nice",positive,cathedral story,0.3374
+Antibes Cannes and St Paul Tour,positive,recommend tour,0.5438
+Antibes Cannes and St Paul Tour,positive,visiting cannes,0.5115
+Antibes Cannes and St Paul Tour,positive,excellent service,0.2982
+Antibes Cannes and St Paul Tour,positive,saint paul,0.2929
+Antibes Cannes and St Paul Tour,positive,kids ages,0.2104
+"Cannes, Grasse, Gourdon, & Saint-Paul-de-Vence /Day Trip",positive,tour guide,0.5432
+"Cannes, Grasse, Gourdon, & Saint-Paul-de-Vence /Day Trip",positive,visited lovely,0.5326
+"Cannes, Grasse, Gourdon, & Saint-Paul-de-Vence /Day Trip",positive,villages provence,0.5238
+"Cannes, Grasse, Gourdon, & Saint-Paul-de-Vence /Day Trip",positive,gourdon wonderful,0.3921
+"Cannes, Grasse, Gourdon, & Saint-Paul-de-Vence /Day Trip",positive,fragrances florish,0.3438
+Catamaran cruise on the French Riviera,positive,boat friendly,0.5052
+Catamaran cruise on the French Riviera,positive,meet time,0.4409
+Catamaran cruise on the French Riviera,positive,itinerary great,0.41
+Catamaran cruise on the French Riviera,positive,onboard delicious,0.3948
+Catamaran cruise on the French Riviera,positive,driver texted,0.3693
+"Citroen Mehari Tour of Beaches, Villages and Lovely Views",positive,access fabio,0.6162
+"Citroen Mehari Tour of Beaches, Villages and Lovely Views",positive,monaco visited,0.5317
+"Citroen Mehari Tour of Beaches, Villages and Lovely Views",positive,tour photos,0.4205
+"Citroen Mehari Tour of Beaches, Villages and Lovely Views",positive,visit eze,0.3689
+"Citroen Mehari Tour of Beaches, Villages and Lovely Views",positive,french riviera,0.3567
+Countryside Tour,positive,landscape tour,0.5499
+Countryside Tour,positive,alternative meeting,0.5002
+Countryside Tour,positive,excellent hotel,0.4662
+Countryside Tour,positive,visit french,0.4263
+Countryside Tour,positive,guide yorgos,0.3129
+Countryside Tour,negative,refund tripadvisor,0.5595
+Countryside Tour,negative,confirmation booking,0.5131
+Countryside Tour,negative,voicemail trip,0.4284
+Countryside Tour,negative,messages ghosted,0.4114
+Countryside Tour,negative,scam contacted,0.4083
+"Excursion partagée Eze, Monaco & Monte Carlo from Nice",positive,visited monaco,0.5843
+"Excursion partagée Eze, Monaco & Monte Carlo from Nice",positive,excellent tour,0.5434
+"Excursion partagée Eze, Monaco & Monte Carlo from Nice",positive,trip experience,0.5101
+"Excursion partagée Eze, Monaco & Monte Carlo from Nice",positive,prix visitors,0.4646
+"Excursion partagée Eze, Monaco & Monte Carlo from Nice",positive,visiting botanical,0.3647
+"Excursion partagée Eze, Monaco & Monte Carlo from Nice",negative,refunding ship,0.5175
+"Excursion partagée Eze, Monaco & Monte Carlo from Nice",negative,phone cruise,0.4328
+"Excursion partagée Eze, Monaco & Monte Carlo from Nice",negative,tour guide,0.2992
+"Excursion partagée Eze, Monaco & Monte Carlo from Nice",negative,peter reply,0.2968
+"Excursion partagée Eze, Monaco & Monte Carlo from Nice",negative,untruthful driver,0.251
+Ferry from Nice to the Island Sainte Marguerite,positive,crossing,0.546
+Ferry from Nice to the Island Sainte Marguerite,positive,catamaran héloïse,0.4583
+Ferry from Nice to the Island Sainte Marguerite,positive,quality appointment,0.4119
+Ferry from Nice to the Island Sainte Marguerite,positive,côte azur,0.2784
+Ferry from Nice to the Island Sainte Marguerite,positive,good stability,0.2447
+Ferry from Nice to the Island Sainte Marguerite,negative,cruise cancelled,0.6052
+Ferry from Nice to the Island Sainte Marguerite,negative,couple cruise,0.3667
+Ferry from Nice to the Island Sainte Marguerite,negative,unprofessional condescending,0.2778
+Ferry from Nice to the Island Sainte Marguerite,negative,courteous behavior,0.2625
+Ferry from Nice to the Island Sainte Marguerite,negative,refund 5th,0.2236
+"Flavors & Tastes of Provence , Shared & Guided 1/2 Day from Nice",positive,giuseppe took,0.5532
+"Flavors & Tastes of Provence , Shared & Guided 1/2 Day from Nice",positive,wonderful journey,0.3833
+"Flavors & Tastes of Provence , Shared & Guided 1/2 Day from Nice",positive,artsy town,0.2803
+"Flavors & Tastes of Provence , Shared & Guided 1/2 Day from Nice",positive,thrill able,0.2563
+"Flavors & Tastes of Provence , Shared & Guided 1/2 Day from Nice",positive,make photo,0.2335
+"Flavors & Tastes of Provence , Shared & Guided 1/2 Day from Nice",negative,tour arrived,0.5591
+"Flavors & Tastes of Provence , Shared & Guided 1/2 Day from Nice",negative,trip advisor,0.4843
+"Flavors & Tastes of Provence , Shared & Guided 1/2 Day from Nice",negative,provence adventure,0.4393
+"Flavors & Tastes of Provence , Shared & Guided 1/2 Day from Nice",negative,complained hours,0.3269
+"Flavors & Tastes of Provence , Shared & Guided 1/2 Day from Nice",negative,avoid smartours,0.2947
+"French Riviera Cannes, Monaco & More shared guided tour from Nice",positive,french riviera,0.5185
+"French Riviera Cannes, Monaco & More shared guided tour from Nice",positive,hotels magnificent,0.429
+"French Riviera Cannes, Monaco & More shared guided tour from Nice",positive,tour guidance,0.4213
+"French Riviera Cannes, Monaco & More shared guided tour from Nice",positive,return tarragona,0.3337
+"French Riviera Cannes, Monaco & More shared guided tour from Nice",positive,joel attended,0.3282
+"French Riviera Cannes, Monaco & More shared guided tour from Nice",negative,visit monaco,0.6688
+"French Riviera Cannes, Monaco & More shared guided tour from Nice",negative,monaco tour,0.6398
+"French Riviera Cannes, Monaco & More shared guided tour from Nice",negative,canceled tours,0.4867
+"French Riviera Cannes, Monaco & More shared guided tour from Nice",negative,came genoa,0.3854
+"French Riviera Cannes, Monaco & More shared guided tour from Nice",negative,inaccurate grimaldis,0.3674
+"Monaco, Monte Carlo & Eze Morning Tour from Nice",positive,monaco tour,0.5215
+"Monaco, Monte Carlo & Eze Morning Tour from Nice",positive,enjoyed trip,0.4409
+"Monaco, Monte Carlo & Eze Morning Tour from Nice",positive,sebastian able,0.3715
+"Monaco, Monte Carlo & Eze Morning Tour from Nice",positive,expectations appreciated,0.3202
+"Monaco, Monte Carlo & Eze Morning Tour from Nice",positive,guide polite,0.2928
+"Monaco, Monte-Carlo and Eze Village Small Group Half-Day Tour",positive,tour monaco,0.6378
+"Monaco, Monte-Carlo and Eze Village Small Group Half-Day Tour",positive,tour advice,0.5863
+"Monaco, Monte-Carlo and Eze Village Small Group Half-Day Tour",positive,visited rothschild,0.4078
+"Monaco, Monte-Carlo and Eze Village Small Group Half-Day Tour",positive,enjoyed isa,0.3996
+"Monaco, Monte-Carlo and Eze Village Small Group Half-Day Tour",positive,excursion perfumery,0.3785
+Provencal Market and Wine Tasting Full Day Shared Tour from Nice,positive,nicole guide,0.6234
+Provencal Market and Wine Tasting Full Day Shared Tour from Nice,positive,guide experience,0.3535
+Provencal Market and Wine Tasting Full Day Shared Tour from Nice,positive,tips eat,0.3042
+Provencal Market and Wine Tasting Full Day Shared Tour from Nice,positive,history facts,0.2765
+Provencal Market and Wine Tasting Full Day Shared Tour from Nice,positive,experience friendly,0.2512
+Provence Wine Tour - Small Group Tour from Nice,positive,tour wines,0.6477
+Provence Wine Tour - Small Group Tour from Nice,positive,enjoyed tours,0.5278
+Provence Wine Tour - Small Group Tour from Nice,positive,beautiful châteaus,0.5151
+Provence Wine Tour - Small Group Tour from Nice,positive,tasting provence,0.4486
+Provence Wine Tour - Small Group Tour from Nice,positive,enjoyable guide,0.3798
+The Best of the French Riviera Small group Guided Tour from Nice,positive,cannes monaco,0.5893
+The Best of the French Riviera Small group Guided Tour from Nice,positive,riviera tours,0.5352
+The Best of the French Riviera Small group Guided Tour from Nice,positive,vassili visited,0.5224
+The Best of the French Riviera Small group Guided Tour from Nice,positive,visit perfumery,0.4754
+The Best of the French Riviera Small group Guided Tour from Nice,positive,enjoyable car,0.3762

@@ -1,0 +1,23 @@
+# data
+data/raw/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# env
+.env
+.env.local
+
+# frontend
+node_modules/
+.next/
+
+# misc
+downloaded_files/
+.DS_Store
+.claude/
