@@ -61,5 +61,5 @@ npm run dev
 
 ## Live demo
 
-[YOUR_VERCEL_URL]
+https://riviera-insight.vercel.app/
 # riviera-insight
